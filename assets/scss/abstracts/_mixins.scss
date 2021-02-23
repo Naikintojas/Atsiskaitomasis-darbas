@@ -1,0 +1,9 @@
+@mixin cardButton {
+    transition: all ease 0.3s;
+    text-decoration: none;
+    color: $green;
+    background: $dark;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+}
